@@ -8,4 +8,4 @@ Necessary installs (as of 31March2022):
 * !pip install --user sdv
 * !python -mpip install seaborn==0.11.1
 
-This project accompanies an article from the Kwan Blog at ....
+This project accompanies an article from the Kwan Blog at [EN article]https://kwan.pt/blog/synthetic-data-a-very-brief-intro-to-a-very-exciting-area-of-data-science) 
